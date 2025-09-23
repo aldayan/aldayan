@@ -1,5 +1,5 @@
 # 👋 Hola, soy Aldayan avila
-### 🚀 Desarrollador de Software | Backend  | PHP - MySQL - JS - Angular - Python - NodeJs 
+### 🚀 Desarrollador de Software | Backend - WordPress  | PHP - MySQL - JS - Angular - Python - NodeJs 
 
 
 Soy un profesional del desarrollo web con más de cuatro años de experiencia en la creación e implementación de soluciones tecnológicas utilizando PHP como lenguaje principal y bases de datos MySQL para la gestión de información. Poseo sólidos conocimientos en diseño web responsivo, aplicando tecnologías como JavaScript y CSS para asegurar una experiencia de usuario óptima en múltiples dispositivos. Además, cuento con habilidades en análisis de datos, lo que me permite optimizar procesos y mejorar la funcionalidad de los sistemas desarrollados. He liderado y desarrollado proyectos para diversos sectores, incluyendo plataformas inmobiliarias, tiendas en línea de motocicletas, y sistemas personalizados para barberías, entre otros.
