@@ -6,7 +6,7 @@ Soy un profesional del desarrollo web con más de cuatro años de experiencia en
 
 
 ### 🛠️ Tecnologías y Herramientas  
-- 💻 Lenguajes: PHP, JavaScript, Python, SQL, Angular, 
+- 💻 Lenguajes: PHP, laravel, JavaScript, Python, SQL, Angular, 
 - 🗄️ Bases de datos: MySQL, MariaDB, SSMS, ORACLE,  
 - 🌐 Web: HTML5, CSS3, Bootstrap, React
 - ⚙️ Control de versiones: Git & GitHub  
@@ -16,6 +16,7 @@ Soy un profesional del desarrollo web con más de cuatro años de experiencia en
 - [Capital](https://github.com/aldayan/Inmobiliaria-capital) → Sistema inmobiliario en PHP/Node.js/MySQL  
 - [PasantesAlpha](https://github.com/aldayan/pasantesalpha) → Plataforma para pasantes con chat y gestión académica  
 - [Votaciones](https://github.com/aldayan/votaciones) →Sistema de votaciones
+- [https://github.com/aldayan/laravel-note) →Sistema para gestion de notas 
 
 ### 📫 Contáctame
 - LinkedIn: https://www.linkedin.com/in/aldayan-avila-b972a2239/
