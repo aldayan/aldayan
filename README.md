@@ -1,29 +1,29 @@
 <h1 align="center">👋 Hi, I'm Aldayan Ávila</h1> <h3 align="center">Full Stack Developer | PHP · JavaScript · Node.js | AI Automation & LLM Integration</h3> <p align="center"> Full Stack Developer with <b>6+ years</b> of experience designing, developing, and deploying scalable web applications and REST APIs. Proficient in <b>PHP</b>, <b>JavaScript</b>, <b>Node.js</b>, and relational databases. Growing specialization in applied AI: business process automation using <b>LLMs</b>, <b>AI agent integration</b>, <b>MCP (Model Context Protocol)</b>, and <b>n8n workflows</b>. Passionate about solving complex problems and building solutions with real business impact. </p> <p align="center"> <a href="https://www.linkedin.com/in/aldayan-avila-b972a2239/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:aldayan.avial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://aldayan.github.io/portafolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
 
 
-<h2> 🛠️ Tech Stack <h2>
+<h2> 🛠️ Tech Stack </h2>
 
-<h3>Languages<h3>
+<h3>Languages</h3>
 
 <p align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
 
-<h3>Frameworks & Libraries<h3>
+<h3>Frameworks & Libraries</h3>
 
 <p align="left"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> </p>
 
-<h3>Databases<h3>
+<h3>Databases</h3>
 
 <p align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> </p>
 
-<h3>AI & Automation<h3>
+<h3>AI & Automation</h3>
 
 <p align="left"> <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-6C5CE7?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Agents-10A37F?style=for-the-badge&logo=robotframework&logoColor=white" /> </p>
 
-<h3>DevOps & Tools<h3>
+<h3>DevOps & Tools</h3>
 
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </p>
 
-<h2>💼 Currently<h2>
+<h2>💼 Currently</h2>
 
 · 🔭 Building AI-powered automation workflows with LLMs, MCP, and n8n at Syntonex
 
@@ -34,10 +34,10 @@
 · 🤖 Deep-diving into AI Agents, Model Context Protocol, and LLM-based automation
 
 
-<h2>📈 GitHub Stats<h2>
+<h2>📈 GitHub Stats</h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aldayan&show_icons=true&theme=default&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldayan&hide_border=true" height="165" /> </p>
 
-<h2>📫 Let's Connect<h2>
+<h2>📫 Let's Connect</h2>
 
 · 💼 LinkedIn: aldayan-avila-b972a2239
 
