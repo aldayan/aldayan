@@ -24,10 +24,13 @@ DevOps & Tools
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </p>
 
 💼 Currently
-
+<br>
 · 🔭 Building AI-powered automation workflows with LLMs, MCP, and n8n at Syntonex
+
 · ⚙️ Automating business processes and dashboards at Fernandez de Castro Corredores de Seguros
+
 · 🎓 Studying Software Development Engineering at UNAPEC (5th term)
+
 · 🤖 Deep-diving into AI Agents, Model Context Protocol, and LLM-based automation
 
 🌟 Featured Projects
