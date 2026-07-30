@@ -24,7 +24,7 @@ DevOps & Tools
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </p>
 
 💼 Currently
-<br>
+
 · 🔭 Building AI-powered automation workflows with LLMs, MCP, and n8n at Syntonex
 
 · ⚙️ Automating business processes and dashboards at Fernandez de Castro Corredores de Seguros
@@ -35,10 +35,13 @@ DevOps & Tools
 
 🌟 Featured Projects
 
-Project	              Description
-·Inmobiliaria          Capital	Full-featured real estate platform with admin panel, listings & search
-·Pasantes ALPHA	       Internship management system with registration, tracking & reporting
-·BikerRacer	           Browser in vanilla JS — real-time collisions, animations & scoring
+    Project	              Description
+
+· Inmobiliaria           Capital	Full-featured real estate platform with admin panel, listings & search
+
+· Pasantes ALPHA	       Internship management system with registration, tracking & reporting
+
+· BikerRacer	           Browser in vanilla JS — real-time collisions, animations & scoring
 
 AI Chatbot + Voting System + Dashboard	Enterprise chatbot with LLM integration, secure voting system & live data dashboard
 
@@ -48,7 +51,9 @@ AI Chatbot + Voting System + Dashboard	Enterprise chatbot with LLM integration, 
 📫 Let's Connect
 
 · 💼 LinkedIn: aldayan-avila-b972a2239
+
 · 📧 Email: aldayan.avial@gmail.com
+
 · 🌐 Portfolio: aldayan.github.io/portafolio
 
 <p align="center"><i>Open to backend, full-stack, and AI automation opportunities — let's build something great together! 🚀</i></p>
