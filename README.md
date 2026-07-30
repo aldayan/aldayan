@@ -33,17 +33,6 @@ DevOps & Tools
 
 · 🤖 Deep-diving into AI Agents, Model Context Protocol, and LLM-based automation
 
-🌟 Featured Projects
-
-    Project	              Description
-
-· Inmobiliaria           Capital	Full-featured real estate platform with admin panel, listings & search
-
-· Pasantes ALPHA	       Internship management system with registration, tracking & reporting
-
-· BikerRacer	           Browser in vanilla JS — real-time collisions, animations & scoring
-
-AI Chatbot + Voting System + Dashboard	Enterprise chatbot with LLM integration, secure voting system & live data dashboard
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aldayan&show_icons=true&theme=default&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldayan&hide_border=true" height="165" /> </p>
