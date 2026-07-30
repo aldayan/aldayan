@@ -39,11 +39,11 @@
 
 <h2>📫 Let's Connect</h2>
 
-· 💼 <h4>LinkedIn:</h4> aldayan-avila-b972a2239
+<p> <h4>· 💼LinkedIn:</h4> aldayan-avila-b972a2239 </p> 
 
-· 📧 <h4>Email:</h4> aldayan.avial@gmail.com
+<p> <h4>· 📧 Email:</h4> aldayan.avial@gmail.com </p> 
 
-· 🌐 <h4>Portfolio:</h4> aldayan.github.io/portafolio
+<p> <h4>·🌐 Portfolio:</h4> aldayan.github.io/portafolio </p> 
 
 <p align="center"><i>Open to backend, full-stack, and AI automation opportunities — let's build something great together! 🚀</i></p>
 
