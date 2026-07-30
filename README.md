@@ -43,7 +43,7 @@
 
 · 📧 Email: aldayan.avial@gmail.com
 
-· 🌐 Portfolio: (https://aldayan.github.io/portafolio/)
+· 🌐 Portfolio: https://aldayan.github.io/portafolio/
 
 <p align="center"><i>Open to backend, full-stack, and AI automation opportunities — let's build something great together! 🚀</i></p>
 
