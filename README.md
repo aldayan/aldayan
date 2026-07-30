@@ -41,9 +41,9 @@
 
 · 💼LinkedIn: [aldayan-avila-b972a2239](https://www.linkedin.com/in/aldayan-avila-b972a2239/)
 
-· 📧 Email: [aldayan.avial@gmail.com]
+· 📧 Email: aldayan.avial@gmail.com
 
-· 🌐 Portfolio: [aldayan.github.io/portafolio]
+· 🌐 Portfolio: (https://aldayan.github.io/portafolio/)
 
 <p align="center"><i>Open to backend, full-stack, and AI automation opportunities — let's build something great together! 🚀</i></p>
 
